@@ -2,5 +2,5 @@ This is Quora-clone Using React-Redux
 
 👇🔴Live🔴👇
 
-https://RutvikPranami.github.io/quora_clone
+https://beautiful-bombolone-8d943c.netlify.app
 
